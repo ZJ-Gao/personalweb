@@ -4,7 +4,7 @@ permalink: /Publications/
 title: Publications
 description:
 nav: true
-nav_order: 2
+nav_order: 5
 sortby: true        # true: Sort by types | false: Sort by years
 years: [2024, 2023, 2022, 2021, 2020, 2019]
 sections:

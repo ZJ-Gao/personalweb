@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /Research/
-description: A growing collection of your cool projects.
+description: From Mountain to Marine
 nav: true
 nav_order: 1
 display_categories: [work, fun]
